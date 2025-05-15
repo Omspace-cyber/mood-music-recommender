@@ -55,7 +55,8 @@ streamlit run app.py
 
 ## 📚 Datasets
 FER2013 – For training the emotion detection model
-https://www.kaggle.com/datasets/msambare/fer2013
+https://www.kaggle.com/datasets/msambare/fer2013.  
+Please download it manually and place it in the `data/` directory:
 
 Music Dataset – Bollywood/Spotify tracks with valence, energy, tempo, etc.
 
